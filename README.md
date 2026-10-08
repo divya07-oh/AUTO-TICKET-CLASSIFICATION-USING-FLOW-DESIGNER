@@ -72,7 +72,7 @@ Preparation of the project report, screenshots, testing evidence, and project de
 
 ## Project Resources
 
-- **Project Report:** https://drive.google.com/file/d/1JV_5oEnpGLFOErLEAU79iaYDnGBNE_fN/view?usp=sharing
+- **Project Report:** https://drive.google.com/file/d/1qzxEYfI9WlDXHioqJ8H4CVlGgJj32tWS/view?usp=sharing
 - **Demo Video:** https://drive.google.com/file/d/1RyJkgwWG_Njax_cUJWRfpzDrccJCxqu2/view?usp=drivesdk
 
 
