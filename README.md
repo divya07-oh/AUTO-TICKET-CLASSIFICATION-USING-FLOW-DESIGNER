@@ -80,6 +80,5 @@ Preparation of the project report, screenshots, testing evidence, and project de
 
 The Auto Ticket Classification project demonstrates how ServiceNow Flow Designer can automate ticket classification and assignment. By using predefined conditions and workflow actions, support tickets can be routed to the appropriate teams with reduced manual intervention.
 
-## Author
 
 **Name:** [Your Name]
